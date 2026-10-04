@@ -1,6 +1,6 @@
 # COVAS-NEXT-PLUGINS
 
-> **Status:** Chromas Next 1.0.0 and Covasify 4.2.0 are published.
+> **Status:** Chromas Next 1.0.0 and Covasify 4.2.0 are published. Archived Covinance and Songbird source packages are also retained publicly for reference.
 
 This project contains plugin packages for [COVAS:NEXT](https://ratherrude.github.io/Elite-Dangerous-AI-Integration/).
 
@@ -57,8 +57,8 @@ When COVAS:NEXT integration is used, **Chromas Next is the EDL command plugin**.
 
 The development history also contains the following archived, obsolete plugins. They are no longer maintained, are not part of the current supported public release, and may no longer be compatible with current COVAS:NEXT releases.
 
-- **Songbird_ARCHIVED_OBSOLETE** — former voice-controlled sound-effects plugin using Freesound and a local soundboard.
-- **Covinance_ARCHIVED_OBSOLETE** — former Elite Dangerous commodity trading and market-analysis plugin using the Ardent API.
+- [`Songbird_ARCHIVED_OBSOLETE/`](Songbird_ARCHIVED_OBSOLETE/) — former voice-controlled sound-effects plugin using Freesound and a local soundboard.
+- [`Covinance_ARCHIVED_OBSOLETE/`](Covinance_ARCHIVED_OBSOLETE/) — former Elite Dangerous commodity trading and market-analysis plugin using the Ardent API.
 
 Do not treat the archived folders as current supported plugins.
 
