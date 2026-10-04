@@ -1,6 +1,6 @@
 # COVAS-NEXT-PLUGINS
 
-> **Status:** Chromas Next 1.0.0 is published. Covasify publication remains separate.
+> **Status:** Chromas Next 1.0.0 and Covasify 4.2.0 are published.
 
 This project contains plugin packages for [COVAS:NEXT](https://ratherrude.github.io/Elite-Dangerous-AI-Integration/).
 
@@ -22,7 +22,7 @@ Covasify can also participate in **Elite Dangerous Lighting** Modes as an option
 
 For EDL Mode music, **Covasify 4.2.0 or newer is required**. In the Chromas Next settings page, enable **Enable Covasify bridge for Mode audio**. When enabled, Chromas Next passes a media cue to Covasify only after EDL has accepted and started the Mode. Covasify handles Spotify playback only; it does not own EDL lighting state and does not register a competing EDL Mode action.
 
-Detailed Covasify installation, Spotify setup, commands, troubleshooting, version history, lineage, and licensing documentation will be published with the plugin folder.
+Detailed Covasify installation, Spotify setup, commands, troubleshooting, version history, lineage, and licensing documentation are published in [`Covasify/`](Covasify/).
 
 ### Chromas Next — Elite Dangerous Lighting integration
 
