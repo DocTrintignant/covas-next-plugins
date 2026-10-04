@@ -1,0 +1,9 @@
+{
+  "guid": "6be9c771-15ca-4b74-a9ab-7cc36db8e3a1",
+  "name": "Chromas Next",
+  "version": "1.0.0",
+  "author": "DocTrintignant",
+  "repository": "https://github.com/DocTrintignant/covas-next-plugins",
+  "description": "COVAS:NEXT control plugin for the standalone Elite Dangerous Lighting application.",
+  "entrypoint": "ChromasNext.py"
+}
