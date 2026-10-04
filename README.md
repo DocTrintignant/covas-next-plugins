@@ -1,6 +1,6 @@
 # COVAS-NEXT-PLUGINS
 
-> **Status:** Pre-release public documentation. The active Chromas Next and Covasify plugin folders will be added to the public repository after the current release boundary is accepted.
+> **Status:** Chromas Next 1.0.0 is published. Covasify publication remains separate.
 
 This project contains plugin packages for [COVAS:NEXT](https://ratherrude.github.io/Elite-Dangerous-AI-Integration/).
 
@@ -41,7 +41,7 @@ Chromas Next -> Covasify -> Spotify
 
 EDL remains the lighting engine and continues to own Elite state, rules, effects, scripted scenes, Modes, timing, arbitration, rendering, hardware control, and restoration. Chromas Next provides the COVAS-facing command layer; Covasify contributes only optional Spotify playback.
 
-The Chromas Next plugin folder will be published here with the plugin source package.
+The Chromas Next 1.0.0 plugin source package is published in [`ChromasNext/`](ChromasNext/).
 
 ## Related Project
 
@@ -64,9 +64,7 @@ Do not treat the archived folders as current supported plugins.
 
 ## Installation
 
-The plugin packages have not been published in this public repository yet. They will be added after the current release boundary is accepted.
-
-Once published, install each plugin according to the instructions in its own folder.
+Install each published plugin according to the instructions in its own folder.
 
 COVAS:NEXT plugins are installed under:
 
