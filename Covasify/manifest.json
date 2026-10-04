@@ -1,0 +1,11 @@
+{
+  "guid": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "name": "Covasify - Spotify Integration",
+  "key": "COVASIFYPlugin",
+  "version": "4.2.0",
+  "author": "DocTrintignant",
+  "description": "Spotify playback control with voice commands, track bindings, and smart caching for improved performance",
+  "permissions": "actions",
+  "entrypoint": "Covasify.py",
+  "settings": {}
+}
