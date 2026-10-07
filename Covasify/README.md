@@ -1,5 +1,7 @@
 # Covasify v4.2.0
 
+> **Platform support:** This software is developed and tested on Windows. It has not been tested on Linux, and compatibility or correct operation on Linux is not guaranteed.
+
 **Covasify lets you control Spotify by talking to COVAS:NEXT.**
 
 You can ask for songs, albums, artists or playlists, control playback, manage Liked Songs, create your own voice bindings, and show the current track on the COVAS:NEXT HUD.

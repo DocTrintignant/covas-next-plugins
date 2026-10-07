@@ -1,5 +1,7 @@
 # Chromas Next v1.0.0
 
+> **Platform support:** This software is developed and tested on Windows. It has not been tested on Linux, and compatibility or correct operation on Linux is not guaranteed.
+
 **Chromas Next lets you control Elite Dangerous Lighting by talking to COVAS:NEXT.**
 
 You can ask COVAS to change colours and effects, check which lighting devices are currently available, start your saved EDL Modes by name, and tell the lighting to Stand Down.

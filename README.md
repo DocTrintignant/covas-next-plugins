@@ -1,5 +1,7 @@
 # COVAS-NEXT-PLUGINS
 
+> **Platform support:** This software is developed and tested on Windows. It has not been tested on Linux, and compatibility or correct operation on Linux is not guaranteed.
+
 > **Status:** Chromas Next 1.0.0 and Covasify 4.2.0 are published. Archived Covinance and Songbird source packages are also retained publicly for reference.
 
 This project contains plugin packages for [COVAS:NEXT](https://ratherrude.github.io/Elite-Dangerous-AI-Integration/).
